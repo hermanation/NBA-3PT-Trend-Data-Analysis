@@ -18,3 +18,5 @@ We want to find out why the three-point shot has trended upwards as the througho
 -Change in Field Goal percentage for each position over the years
 
 
+<a href="https://github.com/hermanation/NBA-3PT-Trend-Data-Analysis/blob/main/page1.png">Team stats Analysis</a>
+<a href="https://github.com/hermanation/NBA-3PT-Trend-Data-Analysis/blob/main/page2.png">Player stats Analysis</a>
