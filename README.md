@@ -20,5 +20,5 @@ We want to find out why the three-point shot has trended upwards as the througho
 </ul>
 
 ## Dashboard images
-<a href="https://github.com/hermanation/NBA-3PT-Trend-Data-Analysis/blob/main/page1.png">Team stats Analysis</a></br/>
+<a href="https://github.com/hermanation/NBA-3PT-Trend-Data-Analysis/blob/main/page1.png">Team stats Analysis</a><br/>
 <a href="https://github.com/hermanation/NBA-3PT-Trend-Data-Analysis/blob/main/page2.png">Player stats Analysis</a>
